@@ -1,5 +1,5 @@
 # Frog Tesseract's Profile
-<b> Currently doing a Daily Commit Challenge - Day 4</b>
+<b> Daily Commit Streak - 4</b>
 ## About Me:
 Hello! Im an aspiring Computer Science student based in Scotland.
 
