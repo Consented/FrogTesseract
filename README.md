@@ -3,7 +3,7 @@
 ## About Me:
 Hello! Im an aspiring Computer Science student based in Scotland.
 
-In school Ive learnt HTML, CSS, PHP and Visual Basic while at home Ive slowly learnt Python over the years and am now starting to learn Java.
+At school Ive learnt HTML, CSS, PHP and Visual Basic while at home Ive slowly learnt Python over the years and am now starting to learn Java.
 
 Currently my focuses are on expanding my portfolio for my university application.
 
