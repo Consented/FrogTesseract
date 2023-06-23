@@ -20,7 +20,7 @@ My list of projects to do are as follows:
   
 </ul>
 
-🔴 <b> If anyone wants to colloborate or has any work experience offers I am more than happy to discuss - Email me at FrogTesseract@gmail.com</b>🔴 
+ <b> Contact: FrogTesseract@proton.me</b> 
 
 ## Languages:
 Main Language:<br>
