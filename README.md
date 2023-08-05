@@ -1,5 +1,4 @@
 # Frog Tesseract's Profile
-<b> Daily Contribution Streak - 4</b>
 ## About Me:
 Hello! Im an aspiring Computer Science student based in Scotland.
 
@@ -10,17 +9,11 @@ Currently my focuses are on expanding my portfolio for my university application
 My list of projects to do are as follows:
 <ul>
   <li>Release proper Pygame game (shaders + trailer + good art + polished)</li>
-  <li>Compete in GMTK game Jam + 2 more (maybe Ludum Dare)</li>
+  <li>Compete in GMTK game Jam</li>
   <li>“Python Projects” - (not got many ideas - maybe something with requests, matplotlib maybe. Use tkinter for GUIs)</li>
-  <li>Make a website about me (using SQL, PHP)</li>
-  <li>Make a website about me (using Python - not too sure how it works)</li>
-  <li>Make a few projects using Java </li>
-  <li>Hopefully work experience using scripting language Deluge</li>
-  <li>Do coding challenges to further CS skills </li>
-  
+  <li>Make a website about me (using html, css and js)</li>
+  <li>Make a few projects using Java (maybe some minecraft mods) </li>
 </ul>
-
- <b> Contact: FrogTesseract@proton.me</b> 
 
 ## Languages:
 Main Language:<br>
