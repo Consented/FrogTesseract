@@ -7,7 +7,7 @@ At school Ive learnt HTML, CSS, PHP and Visual Basic while at home Ive slowly le
 Currently my focuses are on expanding my portfolio for my university application.
 
 ## Languages:
-Main Language:<br>
+Main Languages:<br>
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
