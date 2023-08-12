@@ -6,15 +6,6 @@ At school Ive learnt HTML, CSS, PHP and Visual Basic while at home Ive slowly le
 
 Currently my focuses are on expanding my portfolio for my university application.
 
-My list of projects to do are as follows:
-<ul>
-  <li>Release proper Pygame game (shaders + trailer + good art + polished)</li>
-  <li>Compete in GMTK game Jam</li>
-  <li>“Python Projects” - (not got many ideas - maybe something with requests, matplotlib maybe. Use tkinter for GUIs)</li>
-  <li>Make a website about me (using html, css and js)</li>
-  <li>Make a few projects using Java (maybe some minecraft mods) </li>
-</ul>
-
 ## Languages:
 Main Language:<br>
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
